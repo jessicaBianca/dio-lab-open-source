@@ -11,17 +11,23 @@ Página desenvolvida para fins didáticos para o curso **Contribuindo em um Proj
 
 ```
 docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
+├── assets/                # Recursos como imagens e arquivos estáticos
+│   ├── css/               # Arquivos de estilo (CSS)
+│   │   └── styles.css     # Arquivo de estilo principal
+│   └── js/                # Arquivos de script (JavaScript)
+│       └── scripts.js     # Arquivo de script principal
+├── favicon.ico            # Ícone do site
+├── index.html             # Página principal
+└── README.md              # Este arquivo de documentação
+
 ```
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
+## Como Contribuir
+
+Quer ajudar a melhorar este projeto? Confira nosso **[Guia de Contribuição](https://github.com/jessicaBianca/dio-lab-open-source/blob/main/CONTRIBUTING.md)** para aprender como começar! 
+
